@@ -9,6 +9,7 @@ public class DivyaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DivyaApplication.class, args);
 		System.out.println("WELCOME..");
+		System.out.println("WELCOME..second commit");
 	}
 
 }
